@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yahya</h1>
 <h3 align="center">An annoyingly curious humanbeing</h3>
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/4YCf9sx/ezgif-com-gif-maker.gif" alt="ezgif-com-gif-maker" border="0"></a>
+<a href="https://ibb.co/XC4qrRN"><img src="https://i.ibb.co/RDSqkwZ/ezgif-com-gif-maker-1.gif" alt="ezgif-com-gif-maker-1" border="0" width=199%></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyademirbas&label=Profile%20views&color=0e75b6&style=flat" alt="yahyademirbas" /> </p>
 
