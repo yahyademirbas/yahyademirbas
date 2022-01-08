@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yahyademirbas&label=Profile%20views&color=0e75b6&style=flat" alt="yahyademirbas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyademirbas" alt="yahyademirbas" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyademirbas&theme=matrix" alt="yahyademirbas" /></a> </p>
 
 - 🔭 I’m currently working on **a Software & Telecommunication Company**
 
