@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yahya</h1>
-<h3 align="center">An annoyingly curious humanbeing</h3>
 
 <a href="https://ibb.co/XC4qrRN"><img src="https://i.ibb.co/RDSqkwZ/ezgif-com-gif-maker-1.gif" alt="ezgif-com-gif-maker-1" border="0" width=199%></a>
 
