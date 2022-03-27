@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyademirbas&theme=matrix&no-bg=true&no-frame=true" alt="yahyademirbas" /></a> </p>
 
-- 🔭 I’m currently working on **a Software & Telecommunication Company**
+- 🔭 I’m currently working in **a Software & Telecommunication Company**
 
 - 👨‍💻 My Personal Website is [yahyademirbas.com](yahyademirbas.com)
 
