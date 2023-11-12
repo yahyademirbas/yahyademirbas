@@ -4,7 +4,7 @@
 
 - 👨‍💻 My Personal Website is [yahyademirbas.com](yahyademirbas.com)
 
-- 💬 Ask me about **Automizing PowerPoint, Creating Heatmaps, Instrument Making, Music Production**
+- 💬 Ask me about **Automizing PowerPoint, Creating Heatmaps, Manipulating GeoJSON Data, Vectoral Map Calculations, Instrument Making, Music Production**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
