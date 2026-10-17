@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Yahya</h1>
 
-- 🔭 I’m currently working in **a Software & Telecommunication Company**
+- 🔭 I’m currently working in **a Telecommunication Company**
 
 - 👨‍💻 My Personal Website is [yahyademirbas.com](yahyademirbas.com)
 
-- 💬 Ask me about **Automizing PowerPoint, Creating Heatmaps, Manipulating GeoJSON Data, Vectoral Map Calculations, Instrument Making, Music Production**
+- 💬 Ask me about **Data Engineering, Data Science, HDFS, Airflow, Tableau, Automation, Data Visualization, Manipulating GeoJSON Data, Vectoral Map Calculations, Instrument Making, Leather Craft...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yahyademirbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yahyademirbas" height="30" width="40" /></a>
-<a href="https://instagram.com/yahyademirbash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yahyademirbash" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
